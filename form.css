@@ -1,0 +1,38 @@
+.btn {
+    border-radius: 2rem;
+  }.btn-outline-secondary {
+    color: #0d6efd;
+    border-color: #0d6efd;
+}
+.btn-outline-primary {
+    color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+body {
+    background-color: rgb(100, 107, 114);
+    background-size: cover;
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+    color: #8b1818;
+  }
+  
+  .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }  
+  #formcol{
+    
+    background-size: cover;
+    padding: 10px;
+    background-color: rgb(180, 185, 185);
+  }
+  #message {
+    position: absolute;
+    bottom: -30px;
+    color: #fff;
+    font-size: 15px;
+    display: none;
+
+  }
+  
